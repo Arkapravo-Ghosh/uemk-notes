@@ -22,7 +22,7 @@ Anything that is not made according to the project always wastes time and if you
 
 Big Software is Always complicated and challenging to progress. Software Engineering has a great solution to reduce the complications of any project. Software Engineering divides Big Problems into Various Small issues and then start solving each small issue one by one. All these small problems are solved independently to each other.
 
-### Minimise Software Model
+### Minimize Software Model
 
 ### Handling Big Project
 
