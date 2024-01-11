@@ -1,0 +1,9 @@
+html {
+  --c-bg: #dbe7fb !important;
+  --c-brand: #fa0005 !important;
+
+  &.dark {
+    --c-bg: #0c0d1c !important;
+    --c-brand: #fa0005 !important;
+  }
+}

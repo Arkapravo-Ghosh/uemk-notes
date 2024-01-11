@@ -1,0 +1,14 @@
+{
+  "name": "uemk-notes",
+  "description": "Notes for UEMK students",
+  "author": "Arkapravo Ghosh",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.0"
+  }
+}
