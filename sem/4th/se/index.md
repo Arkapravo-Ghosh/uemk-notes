@@ -43,3 +43,7 @@ Big Software is Always complicated and challenging to progress. Software Enginee
 ## Quality Management
 
 - Better procedure of software development provides a better quality of software.
+
+## Reduce Comlpexity
+
+- Big softwares are always complicated and challenging to the programmers. Software enginnering has a good solution regarding to this. To reduce the complexity of any programming , software enginerring divides the big problems into various small issuses and then start solving each small issue one by one. All the small problems are solves independently to each other.
