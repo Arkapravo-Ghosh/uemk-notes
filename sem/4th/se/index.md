@@ -22,13 +22,17 @@ Anything that is not made according to the project always wastes time and if you
 
 Big Software is Always complicated and challenging to progress. Software Engineering has a great solution to reduce the complications of any project. Software Engineering divides Big Problems into Various Small issues and then start solving each small issue one by one. All these small problems are solved independently to each other.
 
-### Minimise Software Model
-
 ### Handling Big Project
+
+Big projects are not done in a couple of days and they need lots of patience, planning and management, and to invest six or seven months of any company, it requires heaps of planning, direction, testing and maintainance. No one can say that he has given four months of a company to a task and the project is still in its first stage because the company has provided many resources to the plan and it should be completed. So to handle a big project, without any problem, the company has to go for a Software Engineering method.
 
 ### Effectiveness
 
+Effectiveness comes if anything has made according to the standards. Software Standards are the big target of companies and organisations to make it more effective. So the software becomes more effective in the act with the help of Software Engineering.
+
 ### Reliable Software
+
+The software should be secure, means if you have delivered the software, then it should work for atleast its given time or subscription. If any bugs come in the software, the company is responsible for solving all these bugs, because in Software Engineering, Testing and Maintainance are Given. So there is no worries of its reliability.
 
 ## Why is Software Engineering required?
 
@@ -43,3 +47,50 @@ Big Software is Always complicated and challenging to progress. Software Enginee
 ## Quality Management
 
 - Better procedure of software development provides a better quality of software.
+
+# Software Processes
+
+## Activities
+
+- Software Specifications
+- Software Development
+- Software Validation
+- Software Evolution
+
+## Software Crisis
+
+- Size
+- Quality
+- Cost
+- Delayed Delivery
+
+## Software Components
+
+Software is more than Programs. Any Program is a Subset of Software, and it becomes software only if documentation and operating procedures, manuals are provided.
+
+### Programs:
+
+Program is a combination of Source Code and Objective.
+
+### Documentation:
+
+Documentation consists of different types of Manuals. Examples of Documentation Manuals are Data Flow Diagrams, ER (Entity-Relationship) Diagrams, Flowcharts, etc.
+
+### Operating Procedures:
+
+Operating Procedures consists of instructions to set up and use the software system, and instructions on how to react to the system failure. Examples of Operating System Procedures are Procedure Manuals, i.e., Installation Guide, Beginners' Guide, Reference Guide, System Administration guide, etc.
+
+# Characteristics of Software Engineers
+
+### The features that Good Software Engineers should possess are as follows:
+
+- Exposure to Systematic Methods, i.e., familiarity with Software Engineering Principles.
+- Good Technical Knowledge of the project range or domain knowledge.
+- Good Programming Abilities
+- Good Communication Skills, this skill comprises of Oral, Written and Inter-personal skills.
+- High motivation.
+- Sound knowledge of Fundamentals of Computer Science.
+- Intelligence.
+- Ability to work in a Team.
+- Discipline.
+- etc.
