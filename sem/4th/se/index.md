@@ -48,21 +48,43 @@ The software should be secure, means if you have delivered the software, then it
 
 - Better procedure of software development provides a better quality of software.
 
-# Software Processes
+## Software Processes
 
-## Activities
+A Software Process is the set of activities and associated outcome that produce a software product. Software Engineers mostly carry out these activities. There are four key process activities which are common to all software processes.
 
-- Software Specifications
-- Software Development
-- Software Validation
-- Software Evolution
+### Software Specifications
+
+The functionality of the software and constraints on its operation must be defined.
+
+### Software Development LifeCycle
+
+The software to meet the requirements must be provided.
+
+### Software Validation
+
+The software must be validated to ensure that it does what the customer wants.
+
+### Software Evolution
+
+The software must evolve to meet changing client needs.
 
 ## Software Crisis
 
-- Size
-- Quality
-- Cost
-- Delayed Delivery
+### Size
+
+Software is becoming more expensive and more complex with the growing complexity and expectation out of the software. For example, the code in the consumer product is doubling every couple of years.
+
+### Quality
+
+Many software products have four qualities, i.e., the software products defects after putting into use due to ineffective testing techniques. Software testing typically finds 25 errors per 1000 lines of code.
+
+### Cost
+
+Software Development is costly, i.e. in terms of time taken to develop and the money involved. For example, development of the FAA Advanced Automation System, cost over $700 per lines of code.
+
+### Delayed Delivery
+
+Serious schedule overruns are common. Very often the software takes longer than the estimated time to develop, which in turn leads to cost shooting up. For example, one in four large scale development projects is never completed on time.
 
 ## Software Components
 
