@@ -116,3 +116,15 @@ Operating Procedures consists of instructions to set up and use the software sys
 - Ability to work in a Team.
 - Discipline.
 - etc.
+
+# Software Development LifeCycle (SDLC):
+
+- A Software LifeCycle model (also termed Process model) is a pictorial and diagrammatic representation of the software life cycle. A LifeCycle model represents all the methods required to make a software product transit through its life cycle stages. It also captures the order in which these methods are to be undertaken.
+
+- A LifeCycle model maps the various activities performed on a software product from its inception to retirement. It also identifies the entry and exit criteria for each activity. The Development Team of Any Organisation must determine a suitable LifeCycle Model for a particular plan or project and then observe into it.
+
+## Planning and Requirement Analysis
+
+- Requirement Analysis is the most important and fundamental stage in SDLC. It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
+
+- Planning for the quality assurance requirements and identification of the risks associated with the project is also done in the planning stage.
