@@ -128,3 +128,13 @@ Operating Procedures consists of instructions to set up and use the software sys
 - Requirement Analysis is the most important and fundamental stage in SDLC. It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry.
 
 - Planning for the quality assurance requirements and identification of the risks associated with the project is also done in the planning stage.
+
+## The Various Phases of RAD Model are:
+
+### Business Modeling
+
+The information flow among distance functions is defined by answering questions like what data drives the business process, what data is generated, who generates it, where does the data go, who processes it and so on.
+
+### Data Modeling
+
+The information collected from the business model is used to define data objects that are needed for the business.
